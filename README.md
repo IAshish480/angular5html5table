@@ -70,7 +70,8 @@ _* Check the [Help](#Help) section below._
 
 ## Limitations
 
-
+##Repositories
+(Github) https://github.com/IAshish480/angular5html5table.git
 
 ## Help
 
