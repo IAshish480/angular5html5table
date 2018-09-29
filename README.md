@@ -70,7 +70,7 @@ _* Check the [Help](#Help) section below._
 - [StackBlitz](https://angular5html5table.stackblitz.io/)
 
 
-##Repositories
+## Repositories
 (Github) https://github.com/IAshish480/angular5html5table.git
 
 
