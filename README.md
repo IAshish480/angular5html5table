@@ -67,11 +67,14 @@ _* Check the [Help](#Help) section below._
 
 ## Demo
 
+> Previews needs to be opened in new standalone windows.
 
-## Limitations
+- [StackBlitz](https://angular5html5table.stackblitz.io/)
+
 
 ##Repositories
 (Github) https://github.com/IAshish480/angular5html5table.git
+
 
 ## Help
 
