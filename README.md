@@ -17,8 +17,6 @@ _* Check the [HowTo](#HowTo) section below._
 _* Check the [Hints](#Hints) section below._
 
 
-_* Check the [Limitations](#limitations) section below._
-
 ## HowTo
 
 <!-- import in the module -->
