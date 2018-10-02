@@ -72,7 +72,8 @@ _* Check the [Help](#Help) section below._
 
 
 ## Repositories
--[Github] (https://github.com/IAshish480/angular5html5table.git)
+
+- [Github](https://github.com/IAshish480/angular5html5table.git)
 
 
 ## Help
