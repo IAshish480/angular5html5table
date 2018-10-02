@@ -68,6 +68,7 @@ _* Check the [Help](#Help) section below._
 > Previews needs to be opened in new standalone windows.
 
 - [StackBlitz](https://stackblitz.com/edit/angular5html5table)
+- [Github](https://github.com/IAshish480/demo-angular5html5table)
 
 
 ## Repositories
