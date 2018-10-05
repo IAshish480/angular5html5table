@@ -14,7 +14,24 @@ _* Check the [HowTo](#HowTo) section below._
 - Nice devs behind it. 🤓
 
 <!-- For hints -->
+_* Check the [Updates](#Updates) section below._
+
+<!-- For hints -->
 _* Check the [Hints](#Hints) section below._
+
+## Updates
+
+- Visibility of a column at run time using "visible":boolean property in object of headerRowsArray.
+- Use paginator to show some or more no of rows in the table.
+- Move Extreme Left option in filter to move a column to extreme left.
+- Move Extreme Right option in filter to move a column to extreme right.
+- Realign the table to its original move.
+- Remove columns dynamically at user end by clicking Hide column from the menu.
+- Readd columns shown in chips above the table.
+- Multiple type of filters to check contains, start from, end from and many more.
+
+# FREEZE UPDATE
+- Freeze columns to the left allows you to freeze a column while scrolling others.
 
 
 ## HowTo
@@ -63,6 +80,7 @@ _* Check the [Help](#Help) section below._
 * To set maximum date of Today use setMaxDate:true in headerRowsArray's Object.
 
 
+
 ## Demo
 
 > Previews needs to be opened in new standalone windows.
@@ -79,4 +97,3 @@ _* Check the [Help](#Help) section below._
 ## Help
 
 If you need help you can contact to iashish480@gmail.com with a subject "HELP REGARDING TABLE" in the mail.
-
