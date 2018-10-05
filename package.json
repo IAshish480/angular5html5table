@@ -1,11 +1,23 @@
 {
   "name": "angular5html5table",
-  "version": "1.2.0",
+  "version": "1.3.1",
   "license": "MIT",
   "private": false,
   "author": "Ashish",
-  "main": "index.ts",
+  "main": "public-api.ts",
   "declaration": true,
+  "description": "Light Weight angular table",
+  "keywords": [
+    "angular",
+    "table",
+    "html",
+    "sorting",
+    "filter",
+    "header",
+    "freeze",
+    "freeze column",
+    "move column"
+  ],
   "scripts": {
     "prepublish": "npm run build",
     "build": "tsc",
@@ -18,6 +30,7 @@
     "@angular/compiler": "^5.0.0",
     "@angular/forms": "^5.0.0",
     "@angular/material": "^5.2.4",
+    "@angular/platform-browser": "^5.0.0",
     "core-js": "^2.4.1",
     "zone.js": "^0.8.14"
   },

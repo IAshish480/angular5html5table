@@ -12,6 +12,8 @@ var core_1 = require("@angular/core");
 var icon_1 = require("@angular/material/icon");
 var forms_1 = require("@angular/forms");
 var common_1 = require("@angular/common");
+var material_1 = require("@angular/material");
+var animations_1 = require("@angular/platform-browser/animations");
 var AngularTableModule = (function () {
     function AngularTableModule() {
     }
@@ -23,7 +25,7 @@ AngularTableModule = __decorate([
             angular_table_component_1.AngularTableComponent, number_directive_1.Number
         ],
         imports: [
-            common_1.CommonModule, icon_1.MatIconModule, forms_1.FormsModule, forms_1.ReactiveFormsModule
+            animations_1.BrowserAnimationsModule, common_1.CommonModule, icon_1.MatIconModule, forms_1.FormsModule, forms_1.ReactiveFormsModule, material_1.MatPaginatorModule, material_1.MatChipsModule
         ],
         exports: [angular_table_component_1.AngularTableComponent]
     })
