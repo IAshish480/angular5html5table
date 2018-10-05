@@ -36,6 +36,12 @@ _* Check the [Hints](#Hints) section below._
 
 ## HowTo
 
+
+# Important
+Must use enableProdMode() in main.ts of your project.
+Must import css for @angular/material in style.css 
+
+
 <!-- import in the module -->
 I _promise_ that it's **very** easy to use:
 
