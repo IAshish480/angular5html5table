@@ -30,6 +30,21 @@ _* Check the [Hints](#Hints) section below._
 - Readd columns shown in chips above the table.
 - Multiple type of filters to check contains, start from, end from and many more.
 
+<!-- For hints -->
+_* Check the [NewUpdates](#NewUpdates) section below._
+
+## NewUpdates
+
+- Title property in column header and label on row.
+- Background color feature of a column.
+- Background color feature a header.
+- Background color feature of a cell.
+- Background color feature of a row.
+- Text color feature of a column.
+- Text color feature a header.
+- Text color feature of a cell.
+
+
 # FREEZE UPDATE
 - Freeze columns to the left allows you to freeze a column while scrolling others.
 
@@ -102,7 +117,7 @@ _* Check the [Help](#Help) section below._
 
 ## Help
 
-If you need help you can contact to iashish480@gmail.com with a subject "HELP REGARDING TABLE" in the mail.
+If you need help you can contact to angular5html5table@gmail.com with a subject "HELP REGARDING TABLE" in the mail.
 
 
 

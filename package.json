@@ -1,6 +1,6 @@
 {
   "name": "angular5html5table",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "license": "MIT",
   "private": false,
   "author": "Ashish",
@@ -9,9 +9,10 @@
   "declaration": true,
   "description": "Light Weight angular table",
   "keywords": [
-    "angular",
-    "table",
-    "html",
+    "angular","angular4","angular5","angular6",
+    "Angular","Angular4","Angular5","Angular6",
+    "table","data-table","data-grid",
+    "html","color-table",
     "sorting",
     "filter",
     "header",
